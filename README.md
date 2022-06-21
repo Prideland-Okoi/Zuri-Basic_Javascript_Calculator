@@ -1,5 +1,7 @@
 ## Github Page URL
 
+https://prideland-okoi.github.io/Zuri-Basic_Javascript_Calculator/
+
 ## Task Title: Introduction to Javascript
 
 Assignment
@@ -24,7 +26,7 @@ alt.js - No function invocation. Program Runs once.
 I. Prideland-Okoi/Zuri-Simple_CLI_Calculator[](https://github.com/Prideland-Okoi/Zuri-Simple_CLI_Calculator.git) in python
 II. Python-Javascript Converter[](https://extendsclass.com/python-to-javascript.html)
 III. Programiz [](https://www.programiz.com/javascript)
-iv. tobi Otenaike [](awesome)
+iv. tobi Otenaike [](https://awesomescreenshot.com/video/9551211?key=5a17f1b59eaf83d514a8b77078dc8cb1)
 
 ## Technologies
 
